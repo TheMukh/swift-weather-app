@@ -26,7 +26,7 @@ class ViewController: UIViewController, CLLocationManagerDelegate {
     
     let gradientLayer = CAGradientLayer()
     
-    let apiKey = "45831badd24dedf43ea2e4555d88c07d"
+    let apiKey = "REPLACE WITH YOUR OPENWEATHERMAP API KEY"
 //    var lat = 11.344533
 //    var lon = 104.33322
     var activityIndicator: NVActivityIndicatorView!
